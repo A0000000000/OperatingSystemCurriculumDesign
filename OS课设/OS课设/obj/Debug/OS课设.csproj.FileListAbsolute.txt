@@ -1,0 +1,7 @@
+D:\Code\C#\OS课设\OS课设\bin\Debug\OS课设.exe.config
+D:\Code\C#\OS课设\OS课设\bin\Debug\OS课设.exe
+D:\Code\C#\OS课设\OS课设\bin\Debug\OS课设.pdb
+D:\Code\C#\OS课设\OS课设\obj\Debug\OS课设.csprojAssemblyReference.cache
+D:\Code\C#\OS课设\OS课设\obj\Debug\OS课设.csproj.CoreCompileInputs.cache
+D:\Code\C#\OS课设\OS课设\obj\Debug\OS课设.exe
+D:\Code\C#\OS课设\OS课设\obj\Debug\OS课设.pdb
